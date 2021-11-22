@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationApplication</string>
+    <string name="current_button">Find current location</string>
+    <string name="current_title">Location Tracker</string>
+</resources>
